@@ -1,0 +1,3 @@
+ifort -c -O3 -i4 -r8 fft.f
+#ifort -c -O2 -i4 -r8 fft.f
+#ifort -c -fast -i4 -r8 fft.f
